@@ -1,4 +1,4 @@
-# Synthetic Deformable Waste Data Generation for Sim-to-Real Perception
+# Synthetic Deformable Waste Data Generation For Sim-to-Real Perception
 
 **AI512 – Project 2**
 

@@ -1,0 +1,26 @@
+{
+  "uid": "c8027aa24f614ac2acdf76037814b3ee",
+  "class": "carton",
+  "type": "bend",
+  "level": "low",
+  "variant": 0,
+  "seed": 0,
+  "level_range": [
+    15,
+    35
+  ],
+  "params": {
+    "angle_deg": 30.72,
+    "pivot_height_frac": 0.3513,
+    "azimuth_deg": 267.57
+  },
+  "height_before_m": 0.2,
+  "height_after_m": 0.2062,
+  "measured_height_loss": -0.031,
+  "extents_after_m": [
+    0.0872,
+    0.0819,
+    0.2062
+  ],
+  "source": "normalized/carton/c8027aa24f614ac2acdf76037814b3ee/model.obj"
+}

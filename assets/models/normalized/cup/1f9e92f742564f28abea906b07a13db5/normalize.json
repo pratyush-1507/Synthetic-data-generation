@@ -1,0 +1,17 @@
+{
+  "uid": "1f9e92f742564f28abea906b07a13db5",
+  "class": "cup",
+  "raw_extents": [
+    5.1565,
+    5.3575,
+    5.1645
+  ],
+  "height_axis_in_raw": "y",
+  "extents_m": [
+    0.0962,
+    0.1,
+    0.0964
+  ],
+  "faces": 14148,
+  "textured": true
+}

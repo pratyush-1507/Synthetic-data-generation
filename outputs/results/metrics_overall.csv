@@ -1,0 +1,7 @@
+model,test_set,precision,recall,mAP50,mAP50_95
+A_intact,synth_B,0.909,0.81,0.8886,0.8676
+A_intact,synth_A,0.9642,0.8811,0.9654,0.9368
+A_intact,taco,0.1557,0.1116,0.0423,0.0334
+B_deformed,synth_B,0.9096,0.871,0.9355,0.9135
+B_deformed,synth_A,0.9328,0.8984,0.9533,0.9191
+B_deformed,taco,0.1372,0.1369,0.0514,0.0374

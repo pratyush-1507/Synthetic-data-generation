@@ -1,0 +1,26 @@
+{
+  "uid": "8ff20045aea4402bbd864e75f4099cec",
+  "class": "can",
+  "type": "bend",
+  "level": "high",
+  "variant": 0,
+  "seed": 0,
+  "level_range": [
+    60,
+    90
+  ],
+  "params": {
+    "angle_deg": 79.328,
+    "pivot_height_frac": 0.4637,
+    "azimuth_deg": 11.81
+  },
+  "height_before_m": 0.12,
+  "height_after_m": 0.1821,
+  "measured_height_loss": -0.5176,
+  "extents_after_m": [
+    0.1174,
+    0.1209,
+    0.1821
+  ],
+  "source": "normalized/can/8ff20045aea4402bbd864e75f4099cec/model.obj"
+}

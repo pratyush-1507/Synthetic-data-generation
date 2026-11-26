@@ -1,0 +1,33 @@
+{
+  "uid": "5aa5eb5ffad8437eadf331c098d08296",
+  "class": "bottle",
+  "type": "crush",
+  "level": "low",
+  "variant": 0,
+  "seed": 0,
+  "level_range": [
+    0.1,
+    0.25
+  ],
+  "params": {
+    "height_loss_target": 0.2407,
+    "bulge": 0.107,
+    "tilt_deg": -0.537,
+    "tilt_dir_deg": 275.86,
+    "ring_jitter": 0.0289,
+    "noise_strength_m": 0.00384,
+    "noise_scale_m": 0.01262,
+    "n_folds": 3,
+    "fold_depth_m": 0.00186,
+    "fold_skew": 1.433
+  },
+  "height_before_m": 0.25,
+  "height_after_m": 0.1915,
+  "measured_height_loss": 0.2341,
+  "extents_after_m": [
+    0.0642,
+    0.064,
+    0.1915
+  ],
+  "source": "normalized/bottle/5aa5eb5ffad8437eadf331c098d08296/model.obj"
+}

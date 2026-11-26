@@ -1,0 +1,26 @@
+{
+  "uid": "9770e5a091e94eee9636b5284f8d3e4f",
+  "class": "cup",
+  "type": "bend",
+  "level": "medium",
+  "variant": 1,
+  "seed": 0,
+  "level_range": [
+    35,
+    60
+  ],
+  "params": {
+    "angle_deg": 47.241,
+    "pivot_height_frac": 0.4653,
+    "azimuth_deg": 317.29
+  },
+  "height_before_m": 0.1,
+  "height_after_m": 0.1248,
+  "measured_height_loss": -0.2479,
+  "extents_after_m": [
+    0.0874,
+    0.0875,
+    0.1248
+  ],
+  "source": "normalized/cup/9770e5a091e94eee9636b5284f8d3e4f/model.obj"
+}

@@ -1,0 +1,3174 @@
+[
+ {
+  "image_id": 0,
+  "scene": 0,
+  "view": "oblique",
+  "elevation_deg": 41.7,
+  "azimuth_deg": 311.5,
+  "distance_m": 0.567,
+  "ground_texture": "wave",
+  "num_targets": 3,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.611,
+     0.224,
+     0.643
+    ],
+    "energy_W": 152.9
+   },
+   {
+    "location": [
+     -0.377,
+     0.439,
+     0.956
+    ],
+    "energy_W": 198.8
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.777,
+     "metallic": 0.551
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "5aa5eb5ffad8437eadf331c098d08296",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.533,
+     "metallic": 0.05
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "833ef9cea519454fb1d249154b830f04",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.729,
+     "metallic": 0.137
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 1,
+  "scene": 0,
+  "view": "oblique",
+  "elevation_deg": 25.5,
+  "azimuth_deg": 259.1,
+  "distance_m": 0.629,
+  "ground_texture": "wave",
+  "num_targets": 3,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.611,
+     0.224,
+     0.643
+    ],
+    "energy_W": 152.9
+   },
+   {
+    "location": [
+     -0.377,
+     0.439,
+     0.956
+    ],
+    "energy_W": 198.8
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.777,
+     "metallic": 0.551
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "5aa5eb5ffad8437eadf331c098d08296",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.533,
+     "metallic": 0.05
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "833ef9cea519454fb1d249154b830f04",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.729,
+     "metallic": 0.137
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 2,
+  "scene": 1,
+  "view": "top_down",
+  "elevation_deg": 73.9,
+  "azimuth_deg": 244.6,
+  "distance_m": 0.821,
+  "ground_texture": "noise",
+  "num_targets": 3,
+  "num_distractors": 4,
+  "lights": [
+   {
+    "location": [
+     0.23,
+     -0.122,
+     1.106
+    ],
+    "energy_W": 217.7
+   },
+   {
+    "location": [
+     -0.336,
+     0.189,
+     0.929
+    ],
+    "energy_W": 257.8
+   },
+   {
+    "location": [
+     0.145,
+     0.119,
+     1.153
+    ],
+    "energy_W": 176.4
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.234,
+     "metallic": 0.114
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "efa1c4c1f2a947659ded2e61e20eff31",
+    "deformed": true,
+    "type": "bend",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.713,
+     "metallic": 0.2
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "5a518840fd9e48cebfeae70a17021c93",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.67,
+     "metallic": 0.678
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 3,
+  "scene": 1,
+  "view": "top_down",
+  "elevation_deg": 78.9,
+  "azimuth_deg": 230.8,
+  "distance_m": 0.765,
+  "ground_texture": "noise",
+  "num_targets": 3,
+  "num_distractors": 4,
+  "lights": [
+   {
+    "location": [
+     0.23,
+     -0.122,
+     1.106
+    ],
+    "energy_W": 217.7
+   },
+   {
+    "location": [
+     -0.336,
+     0.189,
+     0.929
+    ],
+    "energy_W": 257.8
+   },
+   {
+    "location": [
+     0.145,
+     0.119,
+     1.153
+    ],
+    "energy_W": 176.4
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.234,
+     "metallic": 0.114
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "efa1c4c1f2a947659ded2e61e20eff31",
+    "deformed": true,
+    "type": "bend",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.713,
+     "metallic": 0.2
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "5a518840fd9e48cebfeae70a17021c93",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.67,
+     "metallic": 0.678
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 4,
+  "scene": 2,
+  "view": "top_down",
+  "elevation_deg": 75.4,
+  "azimuth_deg": 157.0,
+  "distance_m": 0.477,
+  "ground_texture": "checker",
+  "num_targets": 4,
+  "num_distractors": 1,
+  "lights": [
+   {
+    "location": [
+     -0.761,
+     -0.692,
+     1.179
+    ],
+    "energy_W": 201.4
+   },
+   {
+    "location": [
+     0.785,
+     -0.453,
+     1.163
+    ],
+    "energy_W": 257.3
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "566323fb276f4fa7ac2943b38bb4e98d",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.29,
+     "metallic": 0.794
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.17,
+     "metallic": 0.029
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "3c6f04b0a330419c9b94e5da6248bb3f",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.232,
+     "metallic": 0.166
+    }
+   },
+   {
+    "name": "target_3",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.125,
+     "metallic": 0.004
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 5,
+  "scene": 2,
+  "view": "oblique",
+  "elevation_deg": 49.5,
+  "azimuth_deg": 140.9,
+  "distance_m": 0.567,
+  "ground_texture": "checker",
+  "num_targets": 4,
+  "num_distractors": 1,
+  "lights": [
+   {
+    "location": [
+     -0.761,
+     -0.692,
+     1.179
+    ],
+    "energy_W": 201.4
+   },
+   {
+    "location": [
+     0.785,
+     -0.453,
+     1.163
+    ],
+    "energy_W": 257.3
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "566323fb276f4fa7ac2943b38bb4e98d",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.29,
+     "metallic": 0.794
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.17,
+     "metallic": 0.029
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "3c6f04b0a330419c9b94e5da6248bb3f",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.232,
+     "metallic": 0.166
+    }
+   },
+   {
+    "name": "target_3",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.125,
+     "metallic": 0.004
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 6,
+  "scene": 3,
+  "view": "top_down",
+  "elevation_deg": 75.2,
+  "azimuth_deg": 129.3,
+  "distance_m": 0.876,
+  "ground_texture": "wave",
+  "num_targets": 2,
+  "num_distractors": 2,
+  "lights": [
+   {
+    "location": [
+     0.138,
+     -0.698,
+     0.986
+    ],
+    "energy_W": 102.4
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "33dedbfe99e24379a422db4d5c809752",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.692,
+     "metallic": 0.068
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "476b23ffca3f43b2a8cad354a35072eb",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.387,
+     "metallic": 0.698
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 7,
+  "scene": 3,
+  "view": "oblique",
+  "elevation_deg": 50.0,
+  "azimuth_deg": 139.7,
+  "distance_m": 0.636,
+  "ground_texture": "wave",
+  "num_targets": 2,
+  "num_distractors": 2,
+  "lights": [
+   {
+    "location": [
+     0.138,
+     -0.698,
+     0.986
+    ],
+    "energy_W": 102.4
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "33dedbfe99e24379a422db4d5c809752",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.692,
+     "metallic": 0.068
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "476b23ffca3f43b2a8cad354a35072eb",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.387,
+     "metallic": 0.698
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 8,
+  "scene": 4,
+  "view": "oblique",
+  "elevation_deg": 46.1,
+  "azimuth_deg": 0.0,
+  "distance_m": 0.468,
+  "ground_texture": "noise",
+  "num_targets": 2,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.588,
+     -0.715,
+     1.226
+    ],
+    "energy_W": 222.4
+   },
+   {
+    "location": [
+     -0.673,
+     -0.657,
+     1.172
+    ],
+    "energy_W": 156.1
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "7674012736d94c84891ebd0407fb4b11",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.597,
+     "metallic": 0.135
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.641,
+     "metallic": 0.142
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 9,
+  "scene": 4,
+  "view": "oblique",
+  "elevation_deg": 26.7,
+  "azimuth_deg": 296.2,
+  "distance_m": 0.888,
+  "ground_texture": "noise",
+  "num_targets": 2,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.588,
+     -0.715,
+     1.226
+    ],
+    "energy_W": 222.4
+   },
+   {
+    "location": [
+     -0.673,
+     -0.657,
+     1.172
+    ],
+    "energy_W": 156.1
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "7674012736d94c84891ebd0407fb4b11",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.597,
+     "metallic": 0.135
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.641,
+     "metallic": 0.142
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 10,
+  "scene": 5,
+  "view": "oblique",
+  "elevation_deg": 49.9,
+  "azimuth_deg": 325.0,
+  "distance_m": 0.738,
+  "ground_texture": "noise",
+  "num_targets": 1,
+  "num_distractors": 5,
+  "lights": [
+   {
+    "location": [
+     -0.231,
+     -0.229,
+     0.516
+    ],
+    "energy_W": 276.6
+   },
+   {
+    "location": [
+     -0.641,
+     0.712,
+     1.369
+    ],
+    "energy_W": 50.9
+   },
+   {
+    "location": [
+     0.183,
+     -0.747,
+     0.516
+    ],
+    "energy_W": 234.8
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "bend",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.11,
+     "metallic": 0.828
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 11,
+  "scene": 5,
+  "view": "oblique",
+  "elevation_deg": 32.3,
+  "azimuth_deg": 211.4,
+  "distance_m": 0.454,
+  "ground_texture": "noise",
+  "num_targets": 1,
+  "num_distractors": 5,
+  "lights": [
+   {
+    "location": [
+     -0.231,
+     -0.229,
+     0.516
+    ],
+    "energy_W": 276.6
+   },
+   {
+    "location": [
+     -0.641,
+     0.712,
+     1.369
+    ],
+    "energy_W": 50.9
+   },
+   {
+    "location": [
+     0.183,
+     -0.747,
+     0.516
+    ],
+    "energy_W": 234.8
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "bend",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.11,
+     "metallic": 0.828
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 12,
+  "scene": 6,
+  "view": "oblique",
+  "elevation_deg": 57.2,
+  "azimuth_deg": 225.6,
+  "distance_m": 0.619,
+  "ground_texture": "checker",
+  "num_targets": 1,
+  "num_distractors": 4,
+  "lights": [
+   {
+    "location": [
+     -0.687,
+     -0.332,
+     0.652
+    ],
+    "energy_W": 150.9
+   },
+   {
+    "location": [
+     -0.188,
+     0.633,
+     1.468
+    ],
+    "energy_W": 118.5
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "1362fdf6c7d341a48efc217b71b69e1e",
+    "deformed": true,
+    "type": "bend",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.205,
+     "metallic": 0.708
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 13,
+  "scene": 6,
+  "view": "oblique",
+  "elevation_deg": 27.3,
+  "azimuth_deg": 30.5,
+  "distance_m": 0.787,
+  "ground_texture": "checker",
+  "num_targets": 1,
+  "num_distractors": 4,
+  "lights": [
+   {
+    "location": [
+     -0.687,
+     -0.332,
+     0.652
+    ],
+    "energy_W": 150.9
+   },
+   {
+    "location": [
+     -0.188,
+     0.633,
+     1.468
+    ],
+    "energy_W": 118.5
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "1362fdf6c7d341a48efc217b71b69e1e",
+    "deformed": true,
+    "type": "bend",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.205,
+     "metallic": 0.708
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 14,
+  "scene": 7,
+  "view": "top_down",
+  "elevation_deg": 76.5,
+  "azimuth_deg": 297.7,
+  "distance_m": 0.497,
+  "ground_texture": "noise",
+  "num_targets": 3,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.204,
+     0.049,
+     1.422
+    ],
+    "energy_W": 202.1
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "8ff20045aea4402bbd864e75f4099cec",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.396,
+     "metallic": 0.558
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "476b23ffca3f43b2a8cad354a35072eb",
+    "deformed": true,
+    "type": "bend",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.181,
+     "metallic": 0.875
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "efa1c4c1f2a947659ded2e61e20eff31",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.183,
+     "metallic": 0.08
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 15,
+  "scene": 7,
+  "view": "top_down",
+  "elevation_deg": 80.2,
+  "azimuth_deg": 229.8,
+  "distance_m": 0.64,
+  "ground_texture": "noise",
+  "num_targets": 3,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.204,
+     0.049,
+     1.422
+    ],
+    "energy_W": 202.1
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "8ff20045aea4402bbd864e75f4099cec",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.396,
+     "metallic": 0.558
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "476b23ffca3f43b2a8cad354a35072eb",
+    "deformed": true,
+    "type": "bend",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.181,
+     "metallic": 0.875
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "efa1c4c1f2a947659ded2e61e20eff31",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.183,
+     "metallic": 0.08
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 16,
+  "scene": 8,
+  "view": "top_down",
+  "elevation_deg": 85.9,
+  "azimuth_deg": 266.7,
+  "distance_m": 0.586,
+  "ground_texture": "checker",
+  "num_targets": 2,
+  "num_distractors": 6,
+  "lights": [
+   {
+    "location": [
+     0.575,
+     -0.706,
+     0.971
+    ],
+    "energy_W": 197.9
+   },
+   {
+    "location": [
+     -0.122,
+     0.571,
+     0.617
+    ],
+    "energy_W": 100.7
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "33dedbfe99e24379a422db4d5c809752",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.729,
+     "metallic": 0.164
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "833ef9cea519454fb1d249154b830f04",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.69,
+     "metallic": 0.117
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 17,
+  "scene": 8,
+  "view": "top_down",
+  "elevation_deg": 78.9,
+  "azimuth_deg": 94.3,
+  "distance_m": 0.821,
+  "ground_texture": "checker",
+  "num_targets": 2,
+  "num_distractors": 6,
+  "lights": [
+   {
+    "location": [
+     0.575,
+     -0.706,
+     0.971
+    ],
+    "energy_W": 197.9
+   },
+   {
+    "location": [
+     -0.122,
+     0.571,
+     0.617
+    ],
+    "energy_W": 100.7
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "33dedbfe99e24379a422db4d5c809752",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.729,
+     "metallic": 0.164
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "833ef9cea519454fb1d249154b830f04",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.69,
+     "metallic": 0.117
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 18,
+  "scene": 9,
+  "view": "oblique",
+  "elevation_deg": 46.8,
+  "azimuth_deg": 283.9,
+  "distance_m": 0.507,
+  "ground_texture": "wave",
+  "num_targets": 2,
+  "num_distractors": 3,
+  "lights": [
+   {
+    "location": [
+     -0.217,
+     0.002,
+     0.876
+    ],
+    "energy_W": 161.5
+   },
+   {
+    "location": [
+     0.291,
+     -0.356,
+     1.024
+    ],
+    "energy_W": 204.4
+   },
+   {
+    "location": [
+     0.753,
+     -0.794,
+     0.679
+    ],
+    "energy_W": 127.8
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "833ef9cea519454fb1d249154b830f04",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.139,
+     "metallic": 0.007
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "4489a6b448a74f6e93e3a721bcb9eb12",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.667,
+     "metallic": 0.547
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 19,
+  "scene": 9,
+  "view": "oblique",
+  "elevation_deg": 57.1,
+  "azimuth_deg": 314.1,
+  "distance_m": 0.756,
+  "ground_texture": "wave",
+  "num_targets": 2,
+  "num_distractors": 3,
+  "lights": [
+   {
+    "location": [
+     -0.217,
+     0.002,
+     0.876
+    ],
+    "energy_W": 161.5
+   },
+   {
+    "location": [
+     0.291,
+     -0.356,
+     1.024
+    ],
+    "energy_W": 204.4
+   },
+   {
+    "location": [
+     0.753,
+     -0.794,
+     0.679
+    ],
+    "energy_W": 127.8
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "833ef9cea519454fb1d249154b830f04",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.139,
+     "metallic": 0.007
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "4489a6b448a74f6e93e3a721bcb9eb12",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.667,
+     "metallic": 0.547
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 20,
+  "scene": 10,
+  "view": "oblique",
+  "elevation_deg": 52.7,
+  "azimuth_deg": 155.2,
+  "distance_m": 0.638,
+  "ground_texture": "voronoi",
+  "num_targets": 3,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.01,
+     0.445,
+     1.344
+    ],
+    "energy_W": 56.4
+   },
+   {
+    "location": [
+     0.509,
+     -0.636,
+     0.656
+    ],
+    "energy_W": 147.9
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "efa1c4c1f2a947659ded2e61e20eff31",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.153,
+     "metallic": 0.009
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "5a518840fd9e48cebfeae70a17021c93",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.261,
+     "metallic": 0.843
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "5a518840fd9e48cebfeae70a17021c93",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.398,
+     "metallic": 0.696
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 21,
+  "scene": 10,
+  "view": "oblique",
+  "elevation_deg": 36.4,
+  "azimuth_deg": 90.9,
+  "distance_m": 0.609,
+  "ground_texture": "voronoi",
+  "num_targets": 3,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.01,
+     0.445,
+     1.344
+    ],
+    "energy_W": 56.4
+   },
+   {
+    "location": [
+     0.509,
+     -0.636,
+     0.656
+    ],
+    "energy_W": 147.9
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "efa1c4c1f2a947659ded2e61e20eff31",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.153,
+     "metallic": 0.009
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "5a518840fd9e48cebfeae70a17021c93",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.261,
+     "metallic": 0.843
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "5a518840fd9e48cebfeae70a17021c93",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.398,
+     "metallic": 0.696
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 22,
+  "scene": 11,
+  "view": "top_down",
+  "elevation_deg": 75.3,
+  "azimuth_deg": 337.4,
+  "distance_m": 0.881,
+  "ground_texture": "noise",
+  "num_targets": 2,
+  "num_distractors": 1,
+  "lights": [
+   {
+    "location": [
+     -0.721,
+     -0.331,
+     1.215
+    ],
+    "energy_W": 291.3
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "4489a6b448a74f6e93e3a721bcb9eb12",
+    "deformed": true,
+    "type": "bend",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.246,
+     "metallic": 0.443
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "33dedbfe99e24379a422db4d5c809752",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.117,
+     "metallic": 0.121
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 23,
+  "scene": 11,
+  "view": "top_down",
+  "elevation_deg": 87.9,
+  "azimuth_deg": 36.9,
+  "distance_m": 0.711,
+  "ground_texture": "noise",
+  "num_targets": 2,
+  "num_distractors": 1,
+  "lights": [
+   {
+    "location": [
+     -0.721,
+     -0.331,
+     1.215
+    ],
+    "energy_W": 291.3
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "4489a6b448a74f6e93e3a721bcb9eb12",
+    "deformed": true,
+    "type": "bend",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.246,
+     "metallic": 0.443
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "33dedbfe99e24379a422db4d5c809752",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.117,
+     "metallic": 0.121
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 24,
+  "scene": 12,
+  "view": "oblique",
+  "elevation_deg": 30.0,
+  "azimuth_deg": 166.5,
+  "distance_m": 0.737,
+  "ground_texture": "voronoi",
+  "num_targets": 3,
+  "num_distractors": 4,
+  "lights": [
+   {
+    "location": [
+     0.502,
+     -0.575,
+     0.727
+    ],
+    "energy_W": 152.2
+   },
+   {
+    "location": [
+     -0.303,
+     0.35,
+     0.836
+    ],
+    "energy_W": 104.5
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "7674012736d94c84891ebd0407fb4b11",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.361,
+     "metallic": 0.133
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.192,
+     "metallic": 0.06
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": true,
+    "type": "bend",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.159,
+     "metallic": 0.089
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 25,
+  "scene": 12,
+  "view": "top_down",
+  "elevation_deg": 70.0,
+  "azimuth_deg": 251.6,
+  "distance_m": 0.728,
+  "ground_texture": "voronoi",
+  "num_targets": 3,
+  "num_distractors": 4,
+  "lights": [
+   {
+    "location": [
+     0.502,
+     -0.575,
+     0.727
+    ],
+    "energy_W": 152.2
+   },
+   {
+    "location": [
+     -0.303,
+     0.35,
+     0.836
+    ],
+    "energy_W": 104.5
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "7674012736d94c84891ebd0407fb4b11",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.361,
+     "metallic": 0.133
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.192,
+     "metallic": 0.06
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": true,
+    "type": "bend",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.159,
+     "metallic": 0.089
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 26,
+  "scene": 13,
+  "view": "top_down",
+  "elevation_deg": 72.4,
+  "azimuth_deg": 188.3,
+  "distance_m": 0.545,
+  "ground_texture": "checker",
+  "num_targets": 3,
+  "num_distractors": 2,
+  "lights": [
+   {
+    "location": [
+     -0.441,
+     0.726,
+     1.082
+    ],
+    "energy_W": 57.7
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.165,
+     "metallic": 0.1
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "5a518840fd9e48cebfeae70a17021c93",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.185,
+     "metallic": 0.919
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "crush",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.597,
+     "metallic": 0.611
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 27,
+  "scene": 13,
+  "view": "oblique",
+  "elevation_deg": 44.0,
+  "azimuth_deg": 266.9,
+  "distance_m": 0.857,
+  "ground_texture": "checker",
+  "num_targets": 3,
+  "num_distractors": 2,
+  "lights": [
+   {
+    "location": [
+     -0.441,
+     0.726,
+     1.082
+    ],
+    "energy_W": 57.7
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.165,
+     "metallic": 0.1
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "5a518840fd9e48cebfeae70a17021c93",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.185,
+     "metallic": 0.919
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "crush",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.597,
+     "metallic": 0.611
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 28,
+  "scene": 14,
+  "view": "oblique",
+  "elevation_deg": 25.9,
+  "azimuth_deg": 169.8,
+  "distance_m": 0.85,
+  "ground_texture": "wave",
+  "num_targets": 2,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.39,
+     0.518,
+     0.733
+    ],
+    "energy_W": 118.0
+   },
+   {
+    "location": [
+     0.093,
+     0.328,
+     0.919
+    ],
+    "energy_W": 233.8
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "3c6f04b0a330419c9b94e5da6248bb3f",
+    "deformed": true,
+    "type": "crush",
+    "level": "low",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.428,
+     "metallic": 0.112
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "crush",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.586,
+     "metallic": 0.523
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 29,
+  "scene": 14,
+  "view": "oblique",
+  "elevation_deg": 27.3,
+  "azimuth_deg": 312.2,
+  "distance_m": 0.759,
+  "ground_texture": "wave",
+  "num_targets": 2,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.39,
+     0.518,
+     0.733
+    ],
+    "energy_W": 118.0
+   },
+   {
+    "location": [
+     0.093,
+     0.328,
+     0.919
+    ],
+    "energy_W": 233.8
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "3c6f04b0a330419c9b94e5da6248bb3f",
+    "deformed": true,
+    "type": "crush",
+    "level": "low",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.428,
+     "metallic": 0.112
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "crush",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.586,
+     "metallic": 0.523
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 30,
+  "scene": 15,
+  "view": "oblique",
+  "elevation_deg": 52.8,
+  "azimuth_deg": 116.3,
+  "distance_m": 0.655,
+  "ground_texture": "wave",
+  "num_targets": 5,
+  "num_distractors": 6,
+  "lights": [
+   {
+    "location": [
+     0.078,
+     0.504,
+     0.599
+    ],
+    "energy_W": 128.3
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "833ef9cea519454fb1d249154b830f04",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.609,
+     "metallic": 0.045
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "566323fb276f4fa7ac2943b38bb4e98d",
+    "deformed": true,
+    "type": "crush",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.601,
+     "metallic": 0.569
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "476b23ffca3f43b2a8cad354a35072eb",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.203,
+     "metallic": 0.521
+    }
+   },
+   {
+    "name": "target_3",
+    "class": "bottle",
+    "uid": "efa1c4c1f2a947659ded2e61e20eff31",
+    "deformed": true,
+    "type": "crush",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.399,
+     "metallic": 0.098
+    }
+   },
+   {
+    "name": "target_4",
+    "class": "bottle",
+    "uid": "efa1c4c1f2a947659ded2e61e20eff31",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.734,
+     "metallic": 0.007
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 31,
+  "scene": 15,
+  "view": "top_down",
+  "elevation_deg": 70.8,
+  "azimuth_deg": 132.7,
+  "distance_m": 0.544,
+  "ground_texture": "wave",
+  "num_targets": 5,
+  "num_distractors": 6,
+  "lights": [
+   {
+    "location": [
+     0.078,
+     0.504,
+     0.599
+    ],
+    "energy_W": 128.3
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "833ef9cea519454fb1d249154b830f04",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.609,
+     "metallic": 0.045
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "566323fb276f4fa7ac2943b38bb4e98d",
+    "deformed": true,
+    "type": "crush",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.601,
+     "metallic": 0.569
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "476b23ffca3f43b2a8cad354a35072eb",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.203,
+     "metallic": 0.521
+    }
+   },
+   {
+    "name": "target_3",
+    "class": "bottle",
+    "uid": "efa1c4c1f2a947659ded2e61e20eff31",
+    "deformed": true,
+    "type": "crush",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.399,
+     "metallic": 0.098
+    }
+   },
+   {
+    "name": "target_4",
+    "class": "bottle",
+    "uid": "efa1c4c1f2a947659ded2e61e20eff31",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.734,
+     "metallic": 0.007
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 32,
+  "scene": 16,
+  "view": "oblique",
+  "elevation_deg": 43.0,
+  "azimuth_deg": 166.3,
+  "distance_m": 0.735,
+  "ground_texture": "voronoi",
+  "num_targets": 3,
+  "num_distractors": 3,
+  "lights": [
+   {
+    "location": [
+     -0.103,
+     0.473,
+     1.178
+    ],
+    "energy_W": 198.6
+   },
+   {
+    "location": [
+     0.615,
+     0.431,
+     1.212
+    ],
+    "energy_W": 245.1
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "bend",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.71,
+     "metallic": 0.468
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "33dedbfe99e24379a422db4d5c809752",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.407,
+     "metallic": 0.183
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "8ff20045aea4402bbd864e75f4099cec",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.157,
+     "metallic": 0.369
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 33,
+  "scene": 16,
+  "view": "top_down",
+  "elevation_deg": 81.1,
+  "azimuth_deg": 256.3,
+  "distance_m": 0.528,
+  "ground_texture": "voronoi",
+  "num_targets": 3,
+  "num_distractors": 3,
+  "lights": [
+   {
+    "location": [
+     -0.103,
+     0.473,
+     1.178
+    ],
+    "energy_W": 198.6
+   },
+   {
+    "location": [
+     0.615,
+     0.431,
+     1.212
+    ],
+    "energy_W": 245.1
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "bend",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.71,
+     "metallic": 0.468
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "bottle",
+    "uid": "33dedbfe99e24379a422db4d5c809752",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.407,
+     "metallic": 0.183
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "8ff20045aea4402bbd864e75f4099cec",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.157,
+     "metallic": 0.369
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 34,
+  "scene": 17,
+  "view": "top_down",
+  "elevation_deg": 84.6,
+  "azimuth_deg": 199.1,
+  "distance_m": 0.598,
+  "ground_texture": "voronoi",
+  "num_targets": 1,
+  "num_distractors": 1,
+  "lights": [
+   {
+    "location": [
+     0.311,
+     0.45,
+     0.669
+    ],
+    "energy_W": 100.7
+   },
+   {
+    "location": [
+     -0.327,
+     -0.315,
+     0.856
+    ],
+    "energy_W": 203.4
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "1362fdf6c7d341a48efc217b71b69e1e",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.291,
+     "metallic": 0.98
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 35,
+  "scene": 17,
+  "view": "top_down",
+  "elevation_deg": 72.3,
+  "azimuth_deg": 142.4,
+  "distance_m": 0.889,
+  "ground_texture": "voronoi",
+  "num_targets": 1,
+  "num_distractors": 1,
+  "lights": [
+   {
+    "location": [
+     0.311,
+     0.45,
+     0.669
+    ],
+    "energy_W": 100.7
+   },
+   {
+    "location": [
+     -0.327,
+     -0.315,
+     0.856
+    ],
+    "energy_W": 203.4
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "1362fdf6c7d341a48efc217b71b69e1e",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.291,
+     "metallic": 0.98
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 36,
+  "scene": 18,
+  "view": "top_down",
+  "elevation_deg": 76.4,
+  "azimuth_deg": 63.7,
+  "distance_m": 0.598,
+  "ground_texture": "noise",
+  "num_targets": 4,
+  "num_distractors": 6,
+  "lights": [
+   {
+    "location": [
+     0.024,
+     -0.575,
+     1.213
+    ],
+    "energy_W": 272.0
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "7674012736d94c84891ebd0407fb4b11",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.632,
+     "metallic": 0.071
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "4489a6b448a74f6e93e3a721bcb9eb12",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.469,
+     "metallic": 0.551
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "7674012736d94c84891ebd0407fb4b11",
+    "deformed": true,
+    "type": "bend",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.563,
+     "metallic": 0.099
+    }
+   },
+   {
+    "name": "target_3",
+    "class": "can",
+    "uid": "640b0c8287274629a7f4ff3ce74a5999",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.281,
+     "metallic": 0.723
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 37,
+  "scene": 18,
+  "view": "oblique",
+  "elevation_deg": 38.4,
+  "azimuth_deg": 147.3,
+  "distance_m": 0.569,
+  "ground_texture": "noise",
+  "num_targets": 4,
+  "num_distractors": 6,
+  "lights": [
+   {
+    "location": [
+     0.024,
+     -0.575,
+     1.213
+    ],
+    "energy_W": 272.0
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "7674012736d94c84891ebd0407fb4b11",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.632,
+     "metallic": 0.071
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "4489a6b448a74f6e93e3a721bcb9eb12",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.469,
+     "metallic": 0.551
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "7674012736d94c84891ebd0407fb4b11",
+    "deformed": true,
+    "type": "bend",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.563,
+     "metallic": 0.099
+    }
+   },
+   {
+    "name": "target_3",
+    "class": "can",
+    "uid": "640b0c8287274629a7f4ff3ce74a5999",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.281,
+     "metallic": 0.723
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 38,
+  "scene": 19,
+  "view": "top_down",
+  "elevation_deg": 74.9,
+  "azimuth_deg": 177.2,
+  "distance_m": 0.627,
+  "ground_texture": "wave",
+  "num_targets": 1,
+  "num_distractors": 5,
+  "lights": [
+   {
+    "location": [
+     0.225,
+     0.302,
+     0.542
+    ],
+    "energy_W": 79.2
+   },
+   {
+    "location": [
+     -0.69,
+     -0.434,
+     0.858
+    ],
+    "energy_W": 101.4
+   },
+   {
+    "location": [
+     -0.292,
+     -0.274,
+     0.52
+    ],
+    "energy_W": 132.5
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "crush",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.197,
+     "metallic": 0.908
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 39,
+  "scene": 19,
+  "view": "oblique",
+  "elevation_deg": 44.3,
+  "azimuth_deg": 351.8,
+  "distance_m": 0.798,
+  "ground_texture": "wave",
+  "num_targets": 1,
+  "num_distractors": 5,
+  "lights": [
+   {
+    "location": [
+     0.225,
+     0.302,
+     0.542
+    ],
+    "energy_W": 79.2
+   },
+   {
+    "location": [
+     -0.69,
+     -0.434,
+     0.858
+    ],
+    "energy_W": 101.4
+   },
+   {
+    "location": [
+     -0.292,
+     -0.274,
+     0.52
+    ],
+    "energy_W": 132.5
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "crush",
+    "level": "low",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.197,
+     "metallic": 0.908
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 40,
+  "scene": 20,
+  "view": "oblique",
+  "elevation_deg": 51.4,
+  "azimuth_deg": 95.7,
+  "distance_m": 0.578,
+  "ground_texture": "checker",
+  "num_targets": 4,
+  "num_distractors": 6,
+  "lights": [
+   {
+    "location": [
+     0.419,
+     0.625,
+     1.306
+    ],
+    "energy_W": 80.9
+   },
+   {
+    "location": [
+     -0.367,
+     0.186,
+     0.884
+    ],
+    "energy_W": 68.6
+   },
+   {
+    "location": [
+     -0.3,
+     0.615,
+     1.459
+    ],
+    "energy_W": 171.0
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.114,
+     "metallic": 0.148
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "566323fb276f4fa7ac2943b38bb4e98d",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.37,
+     "metallic": 0.884
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.51,
+     "metallic": 0.144
+    }
+   },
+   {
+    "name": "target_3",
+    "class": "can",
+    "uid": "476b23ffca3f43b2a8cad354a35072eb",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.331,
+     "metallic": 0.823
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 41,
+  "scene": 20,
+  "view": "oblique",
+  "elevation_deg": 50.1,
+  "azimuth_deg": 340.7,
+  "distance_m": 0.692,
+  "ground_texture": "checker",
+  "num_targets": 4,
+  "num_distractors": 6,
+  "lights": [
+   {
+    "location": [
+     0.419,
+     0.625,
+     1.306
+    ],
+    "energy_W": 80.9
+   },
+   {
+    "location": [
+     -0.367,
+     0.186,
+     0.884
+    ],
+    "energy_W": 68.6
+   },
+   {
+    "location": [
+     -0.3,
+     0.615,
+     1.459
+    ],
+    "energy_W": 171.0
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.114,
+     "metallic": 0.148
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "566323fb276f4fa7ac2943b38bb4e98d",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.37,
+     "metallic": 0.884
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.51,
+     "metallic": 0.144
+    }
+   },
+   {
+    "name": "target_3",
+    "class": "can",
+    "uid": "476b23ffca3f43b2a8cad354a35072eb",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.331,
+     "metallic": 0.823
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 42,
+  "scene": 21,
+  "view": "oblique",
+  "elevation_deg": 48.6,
+  "azimuth_deg": 251.0,
+  "distance_m": 0.82,
+  "ground_texture": "checker",
+  "num_targets": 2,
+  "num_distractors": 5,
+  "lights": [
+   {
+    "location": [
+     0.185,
+     0.714,
+     0.633
+    ],
+    "energy_W": 92.7
+   },
+   {
+    "location": [
+     -0.073,
+     -0.465,
+     0.847
+    ],
+    "energy_W": 143.5
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "5aa5eb5ffad8437eadf331c098d08296",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.353,
+     "metallic": 0.19
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "566323fb276f4fa7ac2943b38bb4e98d",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.47,
+     "metallic": 0.959
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 43,
+  "scene": 21,
+  "view": "top_down",
+  "elevation_deg": 80.2,
+  "azimuth_deg": 203.2,
+  "distance_m": 0.575,
+  "ground_texture": "checker",
+  "num_targets": 2,
+  "num_distractors": 5,
+  "lights": [
+   {
+    "location": [
+     0.185,
+     0.714,
+     0.633
+    ],
+    "energy_W": 92.7
+   },
+   {
+    "location": [
+     -0.073,
+     -0.465,
+     0.847
+    ],
+    "energy_W": 143.5
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "5aa5eb5ffad8437eadf331c098d08296",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.353,
+     "metallic": 0.19
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "566323fb276f4fa7ac2943b38bb4e98d",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.47,
+     "metallic": 0.959
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 44,
+  "scene": 22,
+  "view": "top_down",
+  "elevation_deg": 86.3,
+  "azimuth_deg": 354.4,
+  "distance_m": 0.794,
+  "ground_texture": "wave",
+  "num_targets": 1,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     0.334,
+     -0.62,
+     1.058
+    ],
+    "energy_W": 281.3
+   },
+   {
+    "location": [
+     0.35,
+     0.521,
+     1.247
+    ],
+    "energy_W": 259.7
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.234,
+     "metallic": 0.022
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 45,
+  "scene": 22,
+  "view": "oblique",
+  "elevation_deg": 45.8,
+  "azimuth_deg": 145.5,
+  "distance_m": 0.588,
+  "ground_texture": "wave",
+  "num_targets": 1,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     0.334,
+     -0.62,
+     1.058
+    ],
+    "energy_W": 281.3
+   },
+   {
+    "location": [
+     0.35,
+     0.521,
+     1.247
+    ],
+    "energy_W": 259.7
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": true,
+    "type": "bend",
+    "level": "high",
+    "material": {
+     "recoloured": false,
+     "roughness": 0.234,
+     "metallic": 0.022
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 46,
+  "scene": 23,
+  "view": "oblique",
+  "elevation_deg": 40.7,
+  "azimuth_deg": 55.0,
+  "distance_m": 0.735,
+  "ground_texture": "voronoi",
+  "num_targets": 1,
+  "num_distractors": 1,
+  "lights": [
+   {
+    "location": [
+     0.231,
+     -0.703,
+     1.115
+    ],
+    "energy_W": 174.5
+   },
+   {
+    "location": [
+     0.175,
+     -0.504,
+     0.506
+    ],
+    "energy_W": 158.7
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.66,
+     "metallic": 0.163
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 47,
+  "scene": 23,
+  "view": "oblique",
+  "elevation_deg": 56.4,
+  "azimuth_deg": 113.8,
+  "distance_m": 0.876,
+  "ground_texture": "voronoi",
+  "num_targets": 1,
+  "num_distractors": 1,
+  "lights": [
+   {
+    "location": [
+     0.231,
+     -0.703,
+     1.115
+    ],
+    "energy_W": 174.5
+   },
+   {
+    "location": [
+     0.175,
+     -0.504,
+     0.506
+    ],
+    "energy_W": 158.7
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "c63510b103fc4954ad36a84d7e26e7ec",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.66,
+     "metallic": 0.163
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 48,
+  "scene": 24,
+  "view": "oblique",
+  "elevation_deg": 44.7,
+  "azimuth_deg": 289.4,
+  "distance_m": 0.636,
+  "ground_texture": "wave",
+  "num_targets": 5,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.737,
+     -0.76,
+     0.772
+    ],
+    "energy_W": 132.3
+   },
+   {
+    "location": [
+     0.646,
+     -0.744,
+     0.681
+    ],
+    "energy_W": 274.5
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.434,
+     "metallic": 0.111
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "1362fdf6c7d341a48efc217b71b69e1e",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.173,
+     "metallic": 0.725
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.183,
+     "metallic": 0.522
+    }
+   },
+   {
+    "name": "target_3",
+    "class": "bottle",
+    "uid": "33dedbfe99e24379a422db4d5c809752",
+    "deformed": true,
+    "type": "crush",
+    "level": "low",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.235,
+     "metallic": 0.083
+    }
+   },
+   {
+    "name": "target_4",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.351,
+     "metallic": 0.885
+    }
+   }
+  ]
+ },
+ {
+  "image_id": 49,
+  "scene": 24,
+  "view": "oblique",
+  "elevation_deg": 31.7,
+  "azimuth_deg": 139.6,
+  "distance_m": 0.611,
+  "ground_texture": "wave",
+  "num_targets": 5,
+  "num_distractors": 0,
+  "lights": [
+   {
+    "location": [
+     -0.737,
+     -0.76,
+     0.772
+    ],
+    "energy_W": 132.3
+   },
+   {
+    "location": [
+     0.646,
+     -0.744,
+     0.681
+    ],
+    "energy_W": 274.5
+   }
+  ],
+  "targets": [
+   {
+    "name": "target_0",
+    "class": "bottle",
+    "uid": "a25540fc03ba400faf012d4f68b7ba41",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.434,
+     "metallic": 0.111
+    }
+   },
+   {
+    "name": "target_1",
+    "class": "can",
+    "uid": "1362fdf6c7d341a48efc217b71b69e1e",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": false,
+     "roughness": 0.173,
+     "metallic": 0.725
+    }
+   },
+   {
+    "name": "target_2",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": true,
+    "type": "crush",
+    "level": "medium",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.183,
+     "metallic": 0.522
+    }
+   },
+   {
+    "name": "target_3",
+    "class": "bottle",
+    "uid": "33dedbfe99e24379a422db4d5c809752",
+    "deformed": true,
+    "type": "crush",
+    "level": "low",
+    "material": {
+     "recoloured": true,
+     "roughness": 0.235,
+     "metallic": 0.083
+    }
+   },
+   {
+    "name": "target_4",
+    "class": "can",
+    "uid": "8e273ad665824e869a4d6440cb426dea",
+    "deformed": false,
+    "type": null,
+    "level": null,
+    "material": {
+     "recoloured": true,
+     "roughness": 0.351,
+     "metallic": 0.885
+    }
+   }
+  ]
+ }
+]

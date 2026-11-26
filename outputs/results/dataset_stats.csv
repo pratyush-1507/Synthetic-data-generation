@@ -1,0 +1,13 @@
+dataset,class,images,instances,deformed,total_images
+B_deformed,bottle,593,737,424,1200
+B_deformed,can,529,669,392,1200
+B_deformed,cup,556,714,432,1200
+B_deformed,carton,564,688,427,1200
+A_intact,bottle,592,723,0,1200
+A_intact,can,529,651,0,1200
+A_intact,cup,535,700,0,1200
+A_intact,carton,566,689,0,1200
+taco (real),bottle,322,439,,1500
+taco (real),can,169,263,,1500
+taco (real),cup,158,186,,1500
+taco (real),carton,115,138,,1500

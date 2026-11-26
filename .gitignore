@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+logs/
+assets/models/raw/
+data/synthetic/*/coco_data/
+data/synthetic/*/yolo/
+data/real/taco/
+train/runs/
+train/weights/
+outputs/results/val/
+*.pt
+.DS_Store

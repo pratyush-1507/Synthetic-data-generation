@@ -1,0 +1,33 @@
+{
+  "uid": "8ff20045aea4402bbd864e75f4099cec",
+  "class": "can",
+  "type": "crush",
+  "level": "high",
+  "variant": 0,
+  "seed": 0,
+  "level_range": [
+    0.5,
+    0.75
+  ],
+  "params": {
+    "height_loss_target": 0.5954,
+    "bulge": 0.2392,
+    "tilt_deg": 1.109,
+    "tilt_dir_deg": 279.44,
+    "ring_jitter": 0.0715,
+    "noise_strength_m": 0.01109,
+    "noise_scale_m": 0.02312,
+    "n_folds": 4,
+    "fold_depth_m": 0.00545,
+    "fold_skew": 1.709
+  },
+  "height_before_m": 0.12,
+  "height_after_m": 0.0487,
+  "measured_height_loss": 0.5943,
+  "extents_after_m": [
+    0.1191,
+    0.1172,
+    0.0487
+  ],
+  "source": "normalized/can/8ff20045aea4402bbd864e75f4099cec/model.obj"
+}

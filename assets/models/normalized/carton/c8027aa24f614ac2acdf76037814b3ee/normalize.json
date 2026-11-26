@@ -1,0 +1,17 @@
+{
+  "uid": "c8027aa24f614ac2acdf76037814b3ee",
+  "class": "carton",
+  "raw_extents": [
+    64.992,
+    158.2131,
+    64.6225
+  ],
+  "height_axis_in_raw": "y",
+  "extents_m": [
+    0.0822,
+    0.2,
+    0.0817
+  ],
+  "faces": 8952,
+  "textured": true
+}

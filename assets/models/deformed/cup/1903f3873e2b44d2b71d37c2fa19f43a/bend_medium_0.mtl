@@ -1,0 +1,12 @@
+# Blender 4.2.1 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl material_0.008
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../../../normalized/cup/1903f3873e2b44d2b71d37c2fa19f43a/material_0.png

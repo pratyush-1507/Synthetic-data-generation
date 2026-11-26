@@ -1,0 +1,104 @@
+# Central configuration for the whole pipeline (read by every script in src/).
+# Adding a class = adding one entry under `classes` and re-running the pipeline.
+
+seed: 0
+
+# --------------------------------------------------------------------------- classes
+# id          : COCO category id (YOLO id = id - 1)
+# lvis        : Objaverse-LVIS categories to draw candidates from
+# include_words / exclude_words : filters on the model name (lower-case substrings)
+# height_m    : real-world height after normalisation
+# shape       : round (symmetry axis = round cross-section) or box (rectangular)
+# aspect      : accepted width / height range once upright
+# search_names: optional extra candidates found by name across all of Objaverse
+# taco        : TACO categories mapped to this class for the real-world test
+classes:
+  bottle:
+    id: 1
+    lvis: [bottle, water_bottle, beer_bottle, wine_bottle]
+    exclude_words: []
+    height_m: 0.25
+    shape: round
+    aspect: [0.15, 0.55]
+    taco: [Clear plastic bottle, Glass bottle, Other plastic bottle]
+  can:
+    id: 2
+    lvis: [can, beer_can]
+    exclude_words: []
+    height_m: 0.12
+    shape: round
+    aspect: [0.4, 1.05]
+    taco: [Drink can, Food Can]
+  cup:
+    id: 3
+    lvis: [Dixie_cup, cup]
+    search_names: [paper cup, plastic cup, coffee cup, disposable cup, solo cup, takeaway cup, starbucks cup]
+    include_words: [cup, gulp, vaso, copo, gobelet, solo]
+    exclude_words: [mug, tea, pencil, trophy, glass, ready to paint, coffee cap, donut, minion, measuring,
+                    holder, machine, cupcake, cup cake, set, pack, stack, cupboard, saucer, lid]
+    height_m: 0.10
+    shape: round
+    aspect: [0.5, 1.3]
+    taco: [Disposable plastic cup, Foam cup, Paper cup, Other plastic cup]
+  carton:
+    id: 4
+    lvis: [carton, box, packet]
+    search_names: [milk carton, juice box, juice carton, tetra pak, tetrapak, drink carton, milk box,
+                   milk package, milk packaging, milk pack, leche]
+    include_words: [milk, leche, mleko, juice, carton, lecheok, leky]
+    exclude_words: [cheesecake, flan, cup, botella, balde, lata, holder, store, open, removed, trash,
+                    chest, escudo, voxel, union carton, uci, lecherias]
+    height_m: 0.20
+    shape: box
+    aspect: [0.2, 0.9]
+    taco: [Drink carton, Other carton]
+
+# Models that are already damaged would corrupt the intact/deformed labels.
+exclude_words_all: [crush, crumpl, broken, smash, dent, squash]
+# Individually rejected models (uid: reason).
+exclude_uids:
+  c3cc5a3e1b5f47cbaf841aee7125b759: meme texture, unsuitable for presentation
+  8bafbca3288c471f833ebb8071d55f24: cup with detached lid beside it
+  9646813e492b47fcae126b2491554991: mug with handle, lying on its side
+  f4fee954475a46a5bfa98cf3f4f0d0d9: lid floating above the cup
+  285134ab18bf49d58a16f193b5403da9: open cardboard shipping box, not a drink carton
+  f9b76fa52a82427ea97a51b0775be4d5: open cardboard shipping box, not a drink carton
+  5b81b7f478454277ab1b4630362e06b9: untextured carton with decorative appendage
+  a6b4a3eccaf5449d99b25f0e53bf9962: porcelain cup on a saucer with a sign
+
+# --------------------------------------------------------------------------- assets
+download:
+  per_class: 8
+  licenses: [by, cc0]
+  max_mb: 15
+  max_faces: 150000
+
+# --------------------------------------------------------------------------- deformation
+deform:
+  variants: 2           # per type and level
+  levels:
+    crush: {low: [0.10, 0.25], medium: [0.25, 0.50], high: [0.50, 0.75]}   # height loss
+    bend: {low: [15, 35], medium: [35, 60], high: [60, 90]}                 # degrees
+
+# --------------------------------------------------------------------------- rendering
+render:
+  num_images: 1200       # per dataset; each class appears in roughly 600-750 images
+  views_per_scene: 2
+  targets_per_scene: [1, 4]
+  distractors_per_scene: [0, 6]
+  width: 640
+  height: 480
+  samples: 16
+  datasets:              # name: probability that a target is deformed
+    B_deformed: 0.6
+    A_intact: 0.0
+  split: {train: 0.8, val: 0.1, test: 0.1}
+
+# --------------------------------------------------------------------------- training
+train:
+  model: yolo11n.pt
+  epochs: 60
+  imgsz: 640
+  batch: 16
+  device: mps            # Apple GPU; use cpu or 0 (CUDA) elsewhere
+  patience: 20

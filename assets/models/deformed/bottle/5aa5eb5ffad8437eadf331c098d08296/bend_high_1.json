@@ -1,0 +1,26 @@
+{
+  "uid": "5aa5eb5ffad8437eadf331c098d08296",
+  "class": "bottle",
+  "type": "bend",
+  "level": "high",
+  "variant": 1,
+  "seed": 0,
+  "level_range": [
+    60,
+    90
+  ],
+  "params": {
+    "angle_deg": 63.087,
+    "pivot_height_frac": 0.5167,
+    "azimuth_deg": 303.03
+  },
+  "height_before_m": 0.25,
+  "height_after_m": 0.2559,
+  "measured_height_loss": -0.0236,
+  "extents_after_m": [
+    0.0866,
+    0.0788,
+    0.2559
+  ],
+  "source": "normalized/bottle/5aa5eb5ffad8437eadf331c098d08296/model.obj"
+}

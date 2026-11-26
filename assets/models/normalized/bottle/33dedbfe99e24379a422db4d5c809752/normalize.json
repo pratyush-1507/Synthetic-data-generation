@@ -1,0 +1,17 @@
+{
+  "uid": "33dedbfe99e24379a422db4d5c809752",
+  "class": "bottle",
+  "raw_extents": [
+    6.1357,
+    12.4777,
+    6.1378
+  ],
+  "height_axis_in_raw": "y",
+  "extents_m": [
+    0.1229,
+    0.25,
+    0.123
+  ],
+  "faces": 121876,
+  "textured": true
+}

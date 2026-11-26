@@ -1,0 +1,33 @@
+{
+  "uid": "4b64a7bbfc974893bd3a9c77cd3c9d2b",
+  "class": "carton",
+  "type": "crush",
+  "level": "low",
+  "variant": 1,
+  "seed": 0,
+  "level_range": [
+    0.1,
+    0.25
+  ],
+  "params": {
+    "height_loss_target": 0.2352,
+    "bulge": 0.0956,
+    "tilt_deg": -2.337,
+    "tilt_dir_deg": 61.65,
+    "ring_jitter": 0.0282,
+    "noise_strength_m": 0.00359,
+    "noise_scale_m": 0.01646,
+    "n_folds": 3,
+    "fold_depth_m": 0.00231,
+    "fold_skew": 0.978
+  },
+  "height_before_m": 0.2,
+  "height_after_m": 0.1537,
+  "measured_height_loss": 0.2315,
+  "extents_after_m": [
+    0.0926,
+    0.0456,
+    0.1537
+  ],
+  "source": "normalized/carton/4b64a7bbfc974893bd3a9c77cd3c9d2b/model.obj"
+}
